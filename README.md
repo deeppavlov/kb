@@ -1,2 +1,2 @@
 # Downloading, Preprocessing, and Parsing of Knowledge Bases
-This repo kontains code for working with such knowledge bases as Wikidata, FreeBase, and ConceptNet
+This repo contains code for working with such knowledge bases as Wikidata, FreeBase, and ConceptNet
